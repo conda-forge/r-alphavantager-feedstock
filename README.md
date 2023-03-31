@@ -1,11 +1,11 @@
-About r-alphavantager
-=====================
+About r-alphavantager-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alphavantager-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/business-science/alphavantager
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alphavantager-feedstock/blob/main/LICENSE.txt)
 
 Summary: Alpha Vantage has free historical financial information. All you need to do is get a free API key at <https://www.alphavantage.co>. Then you can use the R interface to retrieve free equity information. Refer to the Alpha Vantage website for more information.
 
